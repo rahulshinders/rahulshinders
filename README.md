@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Shinde
-- 👀 I’m interested in making mobile  adn web application
+- 👀 I’m interested in making mobile and web application
 - 🌱 I’m currently learning Flutter and React JS
 
 <!---
