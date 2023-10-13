@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">🛠️ Technologies Stack</h2>
+<h2 align="center">🛠️ Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E" alt="JavaScript">
