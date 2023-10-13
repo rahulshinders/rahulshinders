@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Rahul Shinde! 👋</h1>
 
 <p align="center">
-  <em>First-year MCA student passionate about web development, MERN stack enthusiast, and code explorer. 🚀</em>
+  <em>I'm a first-year MCA student with a passion for MERN stack web development. I love exploring code and building web solutions. Let's code and create together!</em>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Technologies</h2>
+<h2 align="center">🛠️ Technologies Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E" alt="JavaScript">
