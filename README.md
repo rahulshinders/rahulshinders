@@ -12,22 +12,22 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=F7DF1E" alt="JavaScript">
   <a>
-  <a href="www.linkedin.com/in/rahul-shinde-701452250" target="_blank">
+  <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black&labelColor=61DAFB" alt="React">
   <a>
-  <a href="www.linkedin.com/in/rahul-shinde-701452250" target="_blank">
+  <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=339933" alt="Node.js">
   <a>
-  <a href="www.linkedin.com/in/rahul-shinde-701452250" target="_blank">
+  <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white&labelColor=000000" alt="Express.js">
   <a>
-  <a href="www.linkedin.com/in/rahul-shinde-701452250" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248" alt="MongoDB">
   <a>
-  <a href="www.linkedin.com/in/rahul-shinde-701452250" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML5">
   <a>
-  <a href="www.linkedin.com/in/rahul-shinde-701452250" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS3">
   <a>
 </p>
