@@ -41,7 +41,7 @@
   <a href="mailto:shinderahul8140@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836" alt="Email">
   </a>
-  <a href="www.linkedin.com/in/rahul-shinde-701452250" target="_blank">
+  <a href="www.linkedin.com/in/rahul-shinde-701452250">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
   </a>
 </p>
