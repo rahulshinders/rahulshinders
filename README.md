@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rahul Shinde! 👋</h1>
 
 <p align="center">
-  <em>I'm a first-year MCA student with a passion for MERN stack web development. I love exploring code and building web solutions. Let's code and create together!</em>
+  <em>I'm a final-year MCA student with a passion for full stack web development. I love exploring code and building web solutions. Let's code and create together!</em>
 </p>
 
 ---
